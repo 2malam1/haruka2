@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6285156402391@s.whatsapp.net"],
+    "ownerName": "2malam",
+    "instagram" : "",
+    "gcwa" : "",
+    "botName": "2malam-Bot",
+    "footer": "cumi-cumi malam",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "nnYw47mpsjpuAyn",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
